@@ -1,0 +1,26 @@
+[
+  {
+    "model": "tracker.product",
+    "pk": 1,
+    "fields": {
+      "title": "EIUE Hotel Collection Bed Pillows for Sleeping 2 Pack Queen Size，Pillows for Side and Back Sleepers,Super Soft Down Alternative Microfiber Filled Pillows,20 x 30 Inches",
+      "current_price": 16.99,
+      "product_url": "https://www.amazon.com/dp/B097CZCDQG",
+      "image_src": "https://m.media-amazon.com/images/I/51gpc1r1PGL._AC_SY450_.jpg",
+      "num_stars": 4,
+      "site_id": 1
+    }
+  },
+  {
+    "model": "tracker.product",
+    "pk": 2,
+    "fields": {
+      "title": "Casper Sleep Original Pillow for Sleeping, Standard, White",
+      "current_price": 65.0,
+      "product_url": "https://www.amazon.com/dp/B07KRKFLCT",
+      "image_src": "https://m.media-amazon.com/images/I/31dfLUZeigL._AC_SY450_.jpg",
+      "num_stars": 4,
+      "site_id": 1
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "tracker.site",
+    "pk": 1,
+    "fields": {
+      "title": "Amazon"
+    }
+  },
+  {
+    "model": "tracker.site",
+    "pk": 2,
+    "fields": {
+      "title": "Walmart"
+    }
+  }
+]

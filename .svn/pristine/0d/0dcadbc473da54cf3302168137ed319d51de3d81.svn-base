@@ -1,0 +1,18 @@
+[
+  {
+    "model": "tracker.pricehistory",
+    "pk": 1,
+    "fields": {
+      "product_id": 1,
+      "price": 16.99
+    }
+  },
+  {
+    "model": "tracker.pricehistory",
+    "pk": 2,
+    "fields": {
+      "product_id": 2,
+      "price": 65.0
+    }
+  }
+]
